@@ -6,7 +6,7 @@
 > Master Data Structures & Algorithms from Beginner to Advanced 🚀
 > Structured • Practical • Placement-Oriented • Interview-Focused
 
-📌 About This Repository
+# 📌 About This Repository
 
 # Welcome to the DSA Course 2026 by KG Skills 🎯
 
