@@ -45,3 +45,83 @@
 > Functions & Recursion Basics
 
 > Time & Space Complexity (Big-O)
+
+### 🔹 Phase 2: Arrays & Strings
+
+> 1D & 2D Arrays
+
+> Prefix Sum
+
+> Sliding Window
+
+> Kadane’s Algorithm
+
+> String Manipulation
+
+> Pattern Problems
+
+### Phase 3: Recursion & Backtracking
+
+> Recursion Tree
+
+> Subsets & Subsequences
+
+> Permutations
+
+> N-Queens
+
+> Sudoku Solver
+
+### Phase 4: Searching & Sorting
+
+> Binary Search (Advanced Patterns)
+
+> Merge Sort
+
+> Quick Sort
+
+> Counting Sort
+
+> Cyclic Sort
+
+### Phase 5: Linked List
+
+> Singly Linked List
+
+> Doubly Linked List
+
+> Circular Linked List
+
+> Fast & Slow Pointer Problems
+
+> Detect Loop
+
+> Reverse List
+
+### Phase 6: Stack & Queue
+
+> Stack Implementation
+
+> Queue Implementation
+
+> Monotonic Stack
+
+> Next Greater Element
+
+> Sliding Window Maximum
+
+> LRU Cache
+
+Phase 7: Trees & Binary Search Trees
+
+Binary Tree Traversals
+
+Height / Diameter
+
+Balanced Tree
+
+Lowest Common Ancestor
+
+BST Operations
+
+Kth Smallest in BST
