@@ -60,7 +60,7 @@
 
 - Pattern Problems
 
-### Phase 3: Recursion & Backtracking
+### 🔹 Phase 3: Recursion & Backtracking
 
 - Recursion Tree
 
@@ -72,7 +72,7 @@
 
 - Sudoku Solver
 
-### Phase 4: Searching & Sorting
+### 🔹 Phase 4: Searching & Sorting
 
 - Binary Search (Advanced Patterns)
 
@@ -84,7 +84,7 @@
 
 - Cyclic Sort
 
-### Phase 5: Linked List
+### 🔹 Phase 5: Linked List
 
 - Singly Linked List
 
@@ -98,7 +98,7 @@
 
 - Reverse List
 
-### Phase 6: Stack & Queue
+### 🔹 Phase 6: Stack & Queue
 
 - Stack Implementation
 
@@ -112,16 +112,82 @@
 
 - LRU Cache
 
-Phase 7: Trees & Binary Search Trees
+### 🔹 Phase 7: Trees & Binary Search Trees
 
-Binary Tree Traversals
+- Binary Tree Traversals
 
-Height / Diameter
+- Height / Diameter
 
-Balanced Tree
+- Balanced Tree
 
-Lowest Common Ancestor
+- Lowest Common Ancestor
 
-BST Operations
+- BST Operations
 
-Kth Smallest in BST
+- Kth Smallest in BST
+
+### 🔹 Phase 8: Heaps & Priority Queue
+
+- Min Heap / Max Heap
+
+- Heap Sort
+
+- K Largest Elements
+
+- Top K Frequent Elements
+
+- Median in Stream
+
+### 🔹 Phase 9: Hashing
+
+- HashMap
+
+- HashSet
+
+- Frequency Problems
+
+- Two Sum / 3 Sum
+
+- Longest Consecutive Sequence
+
+### 🔹 Phase 10: Greedy Algorithms
+
+- Activity Selection
+
+- Fractional Knapsack
+
+- Job Scheduling
+
+- Huffman Coding
+
+### 🔹 Phase 11: Graphs
+
+- BFS & DFS
+
+- Topological Sort
+
+- Dijkstra’s Algorithm
+
+- Bellman-Ford
+
+- Floyd Warshall
+
+- Minimum Spanning Tree (Kruskal / Prim)
+
+- Disjoint Set (Union Find)
+
+### 🔹 Phase 12: Dynamic Programming (Advanced)
+
+- 1D DP
+
+- 2D DP
+
+- Knapsack Variants
+
+- LIS
+
+- Matrix Chain Multiplication
+
+- DP on Trees
+
+- DP on Strings
