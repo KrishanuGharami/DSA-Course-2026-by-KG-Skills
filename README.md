@@ -9,7 +9,7 @@
 
 ## 📌 About This Repository
 
-## Welcome to the DSA Course 2026 by KG Skills 🎯
+## Welcome to the DSA Course 2026 by Krishanu Gharami - Skills 🎯
 
 - This repository contains a complete roadmap, structured notes, coding implementations, practice problems, and placement-oriented resources to help students:
 
