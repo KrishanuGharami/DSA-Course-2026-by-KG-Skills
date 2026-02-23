@@ -303,3 +303,36 @@ Commit changes
 ```bash
 Open a Pull Request
 ```
+
+## ⭐ Support
+
+If this repository helps you:
+
+- 🌟 Star the repo
+
+- 🍴 Fork it
+
+- 📢 Share with friends
+
+- 💬 Provide feedback
+
+## 👨‍🏫 Maintained By
+
+Krishanu Gharami
+Founder – KG Skills
+Helping Students Crack Tech Placements 🚀
+
+## 📜 License
+
+This repository is for educational purposes.
+Feel free to use and learn from it.
+
+## 🔥 Final Message
+
+> DSA is not about memorizing solutions.
+
+> It’s about training your brain to think logically.
+
+Consistency > Motivation
+Practice > Theory
+Revision > Random Learning
