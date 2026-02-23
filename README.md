@@ -204,3 +204,27 @@
 | Month 4 | Trees + BST                      |
 | Month 5 | Graphs                           |
 | Month 6 | Dynamic Programming + Mock Tests |
+
+## 📊 Recommended Practice Platforms
+
+- 🔥 LeetCode
+
+- 💻 Codeforces
+
+- 🏆 HackerEarth
+
+- 🧠 HackerRank
+
+- 🚀 GeeksforGeeks
+
+## 🛠 Languages Supported
+
+You can follow this course using:
+
+- C++
+
+- Java
+
+- Python
+
+Code examples will be structured for easy conversion across languages.
