@@ -11,24 +11,24 @@
 
 # Welcome to the DSA Course 2026 by KG Skills 🎯
 
-This repository contains a complete roadmap, structured notes, coding implementations, practice problems, and placement-oriented resources to help students:
+> This repository contains a complete roadmap, structured notes, coding implementations, practice problems, and placement-oriented resources to help students:
 
-Crack Product-Based Company Interviews
+> Crack Product-Based Company Interviews
 
-Master Problem Solving & Logic Building
+> Master Problem Solving & Logic Building
 
-Build Strong DSA Foundations
+> Build Strong DSA Foundations
 
-Prepare for Coding Rounds (On-Campus & Off-Campus)
+> Prepare for Coding Rounds (On-Campus & Off-Campus)
 
-Ace Platforms like LeetCode, CodeStudio, Codeforces, etc.
+> Ace Platforms like LeetCode, CodeStudio, Codeforces, etc.
 
-This course is specially designed for:
+# This course is specially designed for:
 
-🎓 1st to 4th Year Students
+> 🎓 1st to 4th Year Students
 
-💻 CSE / IT / ECE Branch Students
+> 💻 CSE / IT / ECE Branch Students
 
-🔥 Placement Aspirants (2026 Batch)
+> 🔥 Placement Aspirants (2026 Batch)
 
-🧠 Beginners who want Zero-to-Hero DSA mastery
+> 🧠 Beginners who want Zero-to-Hero DSA mastery
