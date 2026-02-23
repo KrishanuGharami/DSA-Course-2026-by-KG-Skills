@@ -233,7 +233,7 @@ Code examples will be structured for easy conversion across languages.
 
 DSA-Course-2026-by-KG-Skills
 
-├── 01-Programming-Basics/
+├── 01-Programming-Basics
 ├── 02-Arrays/
 ├── 03-Strings/
 ├── 04-Recursion/
