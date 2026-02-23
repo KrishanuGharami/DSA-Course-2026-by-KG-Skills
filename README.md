@@ -1,6 +1,8 @@
-<p align="center"-
-  <img width="2752" height="1536" alt="Gemini_Generated_Image_jqvl7djqvl7djqvl" src="https://github.com/user-attachments/assets/d25efddc-0e58-4635-9d69-c271de5cd00e">
+<p align="center"
+  <img width="2752" height="1536" alt="Gemini_Generated_Image_jqvl7djqvl7djqvl" src="https://github.com/user-attachments/assets/fa22aca6-3b09-4c5a-a2f9-4dcb0332dc3c" />
   </p>
+
+
 
 # 🚀 Data Structures & Algorithms Complete Course 2026
 > Master Data Structures & Algorithms from Beginner to Advanced 🚀
