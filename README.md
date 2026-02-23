@@ -334,5 +334,7 @@ Feel free to use and learn from it.
 > It’s about training your brain to think logically.
 
 Consistency > Motivation
+
 Practice > Theory
+
 Revision > Random Learning
