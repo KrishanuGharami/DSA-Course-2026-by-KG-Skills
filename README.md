@@ -319,7 +319,9 @@ If this repository helps you:
 ## 👨‍🏫 Maintained By
 
 Krishanu Gharami
+
 Founder – KG Skills
+
 Helping Students Crack Tech Placements 🚀
 
 ## 📜 License
