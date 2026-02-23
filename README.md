@@ -2,13 +2,14 @@
   <img width="2752" height="1536" alt="Gemini_Generated_Image_jqvl7djqvl7djqvl" src="https://github.com/user-attachments/assets/b0282c58-8319-4c60-808d-5f725846e8cb" />
 </p> 
 
-
 # 🚀 Data Structures & Algorithms Complete Course 2026
 > Master Data Structures & Algorithms from Beginner to Advanced 🚀
 
 > Structured • Practical • Placement-Oriented • Interview-Focused
 
 ## 📌 About This Repository
+
+---
 
 ## Welcome to the DSA Course 2026 by Krishanu Gharami - Skills 🎯
 
@@ -23,6 +24,8 @@
 - Prepare for Coding Rounds (On-Campus & Off-Campus)
 
 - Ace Platforms like LeetCode, HackerEarth, Codeforces, etc.
+
+---
 
 ## This course is specially designed for:
 
