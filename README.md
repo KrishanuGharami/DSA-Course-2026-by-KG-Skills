@@ -9,7 +9,7 @@
 
 # 📌 About This Repository
 
-# Welcome to the DSA Course 2026 by KG Skills 🎯
+## Welcome to the DSA Course 2026 by KG Skills 🎯
 
 > This repository contains a complete roadmap, structured notes, coding implementations, practice problems, and placement-oriented resources to help students:
 
@@ -23,7 +23,7 @@
 
 > Ace Platforms like LeetCode, CodeStudio, Codeforces, etc.
 
-# This course is specially designed for:
+## This course is specially designed for:
 
 > 🎓 1st to 4th Year Students
 
@@ -34,14 +34,14 @@
 > 🧠 Beginners who want Zero-to-Hero DSA mastery
 
 # 🗺️ Complete DSA Roadmap 2026
-🔹 Phase 1: Programming Fundamentals
+## 🔹 Phase 1: Programming Fundamentals
 
-Variables & Data Types
+> Variables & Data Types
 
-Conditional Statements
+> Conditional Statements
 
-Loops
+> Loops
 
-Functions & Recursion Basics
+> Functions & Recursion Basics
 
-Time & Space Complexity (Big-O)
+> Time & Space Complexity (Big-O)
