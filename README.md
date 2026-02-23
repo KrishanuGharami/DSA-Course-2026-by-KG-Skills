@@ -33,7 +33,7 @@
 
 > 🧠 Beginners who want Zero-to-Hero DSA mastery
 
-# 🗺️ Complete DSA Roadmap 2026
+## 🗺️ Complete DSA Roadmap 2026
 ## 🔹 Phase 1: Programming Fundamentals
 
 > Variables & Data Types
