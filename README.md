@@ -231,6 +231,7 @@ Code examples will be structured for easy conversion across languages.
 
 ## 📂 Repository Structure
 
+```
 DSA-Course-2026-by-KG-Skills/
 │
 ├── 01-Programming-Basics/
@@ -250,6 +251,7 @@ DSA-Course-2026-by-KG-Skills/
 ├── 15-Greedy/
 ├── 16-Graphs/
 └── 17-Dynamic-Programming/
+```
 
 ## 🎯 What Makes This Course Different?
 
