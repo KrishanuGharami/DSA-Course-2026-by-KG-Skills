@@ -293,7 +293,13 @@ Steps:
 
 ```bash
 Fork the repository
+```
+```bash
 Create a new branch
+```
+```bash
 Commit changes
+```
+```bash
 Open a Pull Request
 ```
