@@ -21,7 +21,7 @@
 
 - Prepare for Coding Rounds (On-Campus & Off-Campus)
 
-- Ace Platforms like LeetCode, CodeStudio, Codeforces, etc.
+- Ace Platforms like LeetCode, HackerEarth, Codeforces, etc.
 
 ## This course is specially designed for:
 
@@ -191,3 +191,15 @@
 - DP on Trees
 
 - DP on Strings
+
+## 🏆 Placement Preparation Strategy
+### 📅 6-Month Plan
+
+| Month   | Focus                            |
+| ------- | -------------------------------- |
+| Month 1 | Basics + Arrays                  |
+| Month 2 | Recursion + Linked List          |
+| Month 3 | Stack, Queue, Hashing            |
+| Month 4 | Trees + BST                      |
+| Month 5 | Graphs                           |
+| Month 6 | Dynamic Programming + Mock Tests |
