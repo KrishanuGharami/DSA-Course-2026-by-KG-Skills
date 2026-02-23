@@ -228,3 +228,68 @@ You can follow this course using:
 - Python
 
 Code examples will be structured for easy conversion across languages.
+
+## 📂 Repository Structure
+
+DSA-Course-2026-by-KG-Skills/
+│
+├── 01-Programming-Basics/
+├── 02-Arrays/
+├── 03-Strings/
+├── 04-Recursion/
+├── 05-Backtracking/
+├── 06-Searching/
+├── 07-Sorting/
+├── 08-Linked-List/
+├── 09-Stack/
+├── 10-Queue/
+├── 11-Trees/
+├── 12-BST/
+├── 13-Heap/
+├── 14-Hashing/
+├── 15-Greedy/
+├── 16-Graphs/
+└── 17-Dynamic-Programming/
+
+## 🎯 What Makes This Course Different?
+
+✅ Structured Topic-Wise Progression
+✅ Beginner Friendly
+✅ Placement Focused
+✅ Interview Pattern Based Questions
+✅ Clean Code Implementation
+✅ Revision Notes Included
+✅ Real Company Question Patterns
+
+## 📈 How to Use This Repository
+
+1. Follow topics in sequence.
+
+2. Solve problems before checking solutions.
+
+3. Maintain your own notes.
+
+4. Revise every weekend.
+
+5. Solve 2–3 mock tests per month.
+
+## 🤝 Contributing
+
+We welcome contributions!
+
+If you'd like to:
+
+- Improve solutions
+
+- Add more problems
+
+- Improve documentation
+
+- Fix errors
+
+Steps:
+
+Fork the repository
+Create a new branch
+Commit changes
+Open a Pull Request
