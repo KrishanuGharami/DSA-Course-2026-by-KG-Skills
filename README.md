@@ -291,9 +291,9 @@ If you'd like to:
 
 Steps:
 
-`bash
+```bash
 Fork the repository
 Create a new branch
 Commit changes
 Open a Pull Request
-`
+```
