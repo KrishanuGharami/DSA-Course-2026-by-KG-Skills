@@ -319,7 +319,7 @@ If this repository helps you:
 
 Krishanu Gharami
 
-Founder – KG Skills
+Founder – SkillPivot
 
 Helping Students Crack Tech Placements 🚀
 
