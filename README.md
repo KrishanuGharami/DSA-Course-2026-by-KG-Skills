@@ -7,7 +7,7 @@
 
 > Structured • Practical • Placement-Oriented • Interview-Focused
 
-# 📌 About This Repository
+## 📌 About This Repository
 
 ## Welcome to the DSA Course 2026 by KG Skills 🎯
 
